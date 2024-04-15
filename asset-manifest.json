@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/PMC-Downloader/static/css/main.f855e6bc.css",
-    "main.js": "/PMC-Downloader/static/js/main.250faa7a.js",
+    "main.js": "/PMC-Downloader/static/js/main.4ccd73d8.js",
     "static/js/453.c4306ce3.chunk.js": "/PMC-Downloader/static/js/453.c4306ce3.chunk.js",
     "static/media/logo.svg": "/PMC-Downloader/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/PMC-Downloader/index.html",
     "main.f855e6bc.css.map": "/PMC-Downloader/static/css/main.f855e6bc.css.map",
-    "main.250faa7a.js.map": "/PMC-Downloader/static/js/main.250faa7a.js.map",
+    "main.4ccd73d8.js.map": "/PMC-Downloader/static/js/main.4ccd73d8.js.map",
     "453.c4306ce3.chunk.js.map": "/PMC-Downloader/static/js/453.c4306ce3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.250faa7a.js"
+    "static/js/main.4ccd73d8.js"
   ]
 }
